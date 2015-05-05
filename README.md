@@ -124,6 +124,11 @@ Now open the below url in two browsers:
 
 Njoy :)
 
+***************************************
+For this example just type the below command to install the dependecies:
+
+      npm install
+***************************************
 For more details please visit:
 
 http://cj7.info/blog/simple-chat-application-in-nodejs
