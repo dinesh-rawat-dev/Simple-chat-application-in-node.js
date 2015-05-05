@@ -1,6 +1,4 @@
 # Simple-chat-application-in-node.js
-Simple chat application in node.js
-================
 
 Today I am going to develop a simple chat application using node.js, which transmits messages from one client to all others. I will be using a node.js module that is "socket.io", I assure you that I will make simple and easy to understand.
 For building a chat system, I am creating two files:
